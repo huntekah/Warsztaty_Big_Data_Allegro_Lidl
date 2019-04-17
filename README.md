@@ -1,0 +1,1 @@
+# Warsztaty_Big_Data_Allegro_Lidl
