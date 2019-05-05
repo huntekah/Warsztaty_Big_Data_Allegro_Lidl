@@ -6,6 +6,6 @@
 
 `cd ..`
 
-`conda activate data_anaysis`
+`conda activate data_analysis`
 
 `jupyter notebook`
